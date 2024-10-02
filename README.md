@@ -34,7 +34,7 @@ To quickly get started with the Sorting Visualizer, follow these steps:
 
 ## Demo
 
-Check out the live Sorting Visualizer at [this link](https://rashikumari771.github.io/Sorting_visualizer/).
+Check out the live Sorting Visualizer at [this link](https://22je0864.github.io/Sorting-Visualizer/).
 
 ---
 
